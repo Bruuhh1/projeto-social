@@ -10,6 +10,7 @@ html,body{
     background-color: black;
 }
 
+
 body{
     background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
     background-size: cover;
@@ -18,7 +19,7 @@ body{
 
 main{
     position: relative;
-    height: 100vh;
+    height: 90vh;
 }
 
 section#telefone{
@@ -33,14 +34,14 @@ section#telefone{
 
 iframe#tela {
     position: relative;
-    top: 59px;
-    left: 16px;
+    top: 58px;
+    left: 17px;
     width: 193px;
     height: 340px;
 }
 
 section#redes-sociais img{
-    width: 50px;
+    width: 40px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.418);
